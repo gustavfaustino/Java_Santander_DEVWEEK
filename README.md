@@ -1,4 +1,4 @@
-<h2>Projeto Santander Dev Week 2024</h2>
+# Projeto Santander Dev Week 2024
 
 <img src='assets/wlpprLol.jpg' height=240 width=400 align=right>
 
